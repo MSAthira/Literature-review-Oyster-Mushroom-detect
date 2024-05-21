@@ -1,0 +1,2 @@
+This is the research report done for the master's thesis done for detecting the different stages of maturity of the Oyster mushroom. The study was conducted completley following the scientific paper named 'Systematic literature review in computer science-a practical
+guide'. The scientific papers used to derive the answer to the'How' question is precisely stated in each steps. The report is converted into the pdf form and also the Power Point presntation of report is availabe to public.
